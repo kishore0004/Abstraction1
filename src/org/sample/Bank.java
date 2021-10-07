@@ -1,8 +1,10 @@
 package org.sample;
 
 public interface Bank {
-	void bankName();
-	void bankLocation();
+	void kish();
+	void kisjkks();
+	void jscgjgsjsj();
+	void gcjsscjas();
 	
 }
 
