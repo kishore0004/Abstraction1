@@ -4,6 +4,6 @@ package org.sample;
 public interface Student {
 	void bernath();
 	void harish();
-	void sarathi();
-	void saran();
+	void Sysout();
+	void srsghshgsgahcsMGnxDGH();
 }
